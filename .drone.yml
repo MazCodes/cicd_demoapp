@@ -11,6 +11,6 @@ build:
 
 publish:
     docker:
-        repo: mazcodes/cicd_demoapp
+        repo: $$DOCKER_USERNAME/cicd_demoapp
         tag: latest
-        username: mazcodes 
+        username: $$DOCKER_USERNAME
