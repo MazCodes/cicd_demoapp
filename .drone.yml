@@ -13,4 +13,4 @@ publish:
     docker:
         repo: mazcodes/cicd_demoapp
         tag: latest
-        username: mazcodes 
+        username: MazCodes 
