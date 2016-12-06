@@ -11,6 +11,8 @@ build:
 
 publish:
     docker:
-        repo: $$DOCKER_USERNAME/cicd_demoapp
+        repo: mazcodes/cicd_demoapp
         tag: latest
-        username: $$DOCKER_USERNAME
+        username: mazcodes
+        password: ICodeThereforeIam
+        email: mabounaj@cisco.com
